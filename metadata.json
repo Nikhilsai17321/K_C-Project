@@ -1,0 +1,6 @@
+{
+  "name": "Kisan-Credit Web Platform",
+  "description": "An alternative trust scoring and micro-lending system for rural entrepreneurs featuring a simulated WhatsApp onboarding flow, impact site, and underwriter dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
